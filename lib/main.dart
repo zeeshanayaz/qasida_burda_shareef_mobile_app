@@ -1,30 +1,62 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart' show ProviderScope, ConsumerWidget, WidgetRef;
+import 'package:shared_preferences/shared_preferences.dart';
 
-void main() {
-  runApp(const MyApp());
+import 'core/database/database_service.dart';
+import 'core/services/storage_service.dart';
+import 'core/theme/app_theme.dart';
+import 'features/splash/presentation/splash_screen.dart';
+
+void main() async {
+  // Ensure Flutter widgets are initialized
+  WidgetsFlutterBinding.ensureInitialized();
+
+  // Initialize Services asynchronously before running the app
+  final sharedPreferences = await SharedPreferences.getInstance();
+  final storageService = StorageService(sharedPreferences);
+
+  final dbInstance = await DatabaseService.initDb();
+  final databaseService = DatabaseService(dbInstance);
+
+  runApp(
+    ProviderScope(
+      overrides: [
+        storageServiceProvider.overrideWithValue(storageService),
+        databaseServiceProvider.overrideWithValue(databaseService),
+      ],
+      child: const MyApp(),
+    ),
+  );
 }
 
-class MyApp extends StatelessWidget {
+class MyApp extends ConsumerWidget {
   const MyApp({super.key});
 
-  // This widget is the root of your application.
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context, WidgetRef ref) {
+    // Reading settings via StorageService to dynamically apply themes
+    final storage = ref.watch(storageServiceProvider);
+    final savedTheme = storage.getThemeMode();
+
+    ThemeMode themeMode;
+    switch (savedTheme) {
+      case 'light':
+        themeMode = ThemeMode.light;
+        break;
+      case 'dark':
+        themeMode = ThemeMode.dark;
+        break;
+      default:
+        themeMode = ThemeMode.system;
+    }
+
     return MaterialApp(
       title: 'قصيدة البردة',
-      theme: ThemeData(
-        scaffoldBackgroundColor: Colors.white,
-        colorScheme: .fromSeed(seedColor: Colors.green),
-      ),
-      home: Scaffold(
-        body: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Image.asset('assets/images/logo.png'),
-            Text('قصيدة البردة', style: TextStyle(fontSize: 20),),
-          ],
-        ),
-      ),
+      debugShowCheckedModeBanner: false,
+      theme: AppTheme.lightTheme,
+      darkTheme: AppTheme.darkTheme,
+      themeMode: themeMode,
+      home: const SplashScreen(),
     );
   }
 }

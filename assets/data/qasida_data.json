@@ -9,19 +9,19 @@
       "verses": [
         {
           "verse_number": 1,
-          "text_arabic": "أَمِنْ تَذَكُّرِ جِيرَانٍ بِذِي سَلَمِ ** مَزَجْتَ دَمْعاً جَرَى مِنْ مُقْلَةٍ بِدَمِ",
+          "text_arabic": "أَمِنْ تَذَكُّرِ جِيرَانٍ بِذِي سَلَمِ\nمَزَجْتَ دَمْعاً جَرَى مِنْ مُقْلَةٍ بِدَمِ",
           "text_english": "Is it from the memory of neighbors at Dhu Salam that you mix tears flowing from your eyes with blood?",
           "text_urdu": "کیا مقامِ ذوسلم کے پڑوسیوں کی یاد ہے کہ تم نے آنکھ سے بہنے والے آنسوؤں میں خون ملا لیا ہے؟"
         },
         {
           "verse_number": 2,
-          "text_arabic": "أَمْ هَبَّتِ الرِّيحُ مِنْ تِلْقَاءِ كَاظِمَةٍ ** وَأَوْمَضَ الْبَرْقُ فِي الظَّلْمَاءِ مِنْ إِضَمِ",
+          "text_arabic": "أَمْ هَبَّتِ الرِّيحُ مِنْ تِلْقَاءِ كَاظِمَةٍ\nوَأَوْمَضَ الْبَرْقُ فِي الظَّلْمَاءِ مِنْ إِضَمِ",
           "text_english": "Or is it that the wind blew from the direction of Kazima, and lightning flashed in the dark of Idam?",
           "text_urdu": "یا کاظمہ کی طرف سے ہوا چلی ہے اور اِضم پہاڑی کی تاریکیوں میں بجلی چمکی ہے؟"
         },
         {
           "verse_number": 3,
-          "text_arabic": "فَمَا لِعَيْنَيْكَ إِنْ قُلْتَ اكْفُفَا هَمَتَا ** وَمَا لِقَلْبِكَ إِنْ قُلْتَ اسْتَفِقْ يَهِمِ",
+          "text_arabic": "فَمَا لِعَيْنَيْكَ إِنْ قُلْتَ اكْفُفَا هَمَتَا\nوَمَا لِقَلْبِكَ إِنْ قُلْتَ اسْتَفِقْ يَهِمِ",
           "text_english": "What is the matter with your eyes that if you tell them to stop, they weep more? And what is the matter with your heart that if you tell it to wake up, it goes astray?",
           "text_urdu": "تمہاری آنکھوں کو کیا ہوا ہے کہ اگر تم انہیں رکنے کا کہتے ہو تو وہ مزید بہتی ہیں؟ اور تمہارے دل کو کیا ہوا ہے کہ اگر تم اسے ہوش میں آنے کا کہتے ہو تو وہ مدہوش ہوتا جاتا ہے؟"
         }
@@ -36,19 +36,19 @@
       "verses": [
         {
           "verse_number": 1,
-          "text_arabic": "فَإِنَّ أَمَّارَتِي بِالسُّوءِ مَا اتَّعَظَتْ ** مِنْ جَهْلِهَا بِنَذِيرِ الشَّيْبِ وَالْهَرَمِ",
+          "text_arabic": "فَإِنَّ أَمَّارَتِي بِالسُّوءِ مَا اتَّعَظَتْ\nمِنْ جَهْلِهَا بِنَذِيرِ الشَّيْبِ وَالْهَرَمِ",
           "text_english": "For indeed my soul, which bids to evil, took no warning from its ignorance of the cautioning of gray hairs and senility.",
           "text_urdu": "بے شک میرے نفسِ امارہ نے اپنی جہالت کی وجہ سے بڑھاپے اور ضعیفی کی تنبیہ سے کوئی نصیحت حاصل نہیں کی۔"
         },
         {
           "verse_number": 2,
-          "text_arabic": "وَلَا أَعَدَّتْ مِنَ الْفِعْلِ الْجَمِيلِ قِرَى ** ضَيْفٍ أَلَمَّ بِرَأْسِي غَيْرَ مُحْتَشِمِ",
+          "text_arabic": "وَلَا أَعَدَّتْ مِنَ الْفِعْلِ الْجَمِيلِ قِرَى\nضَيْفٍ أَلَمَّ بِرَأْسِي غَيْرَ مُحْتَشِمِ",
           "text_english": "Nor did it prepare of good deeds a feast for a guest (gray hair) that settled on my head without bashfulness.",
           "text_urdu": "اور نہ ہی اس نے اچھے اعمال کے ذریعے اس مہمان (بڑھاپے) کی مہمانی کی کوئی تیاری کی، جو میرے سر پر بغیر کسی جھجھک کے آ اترا ہے۔"
         },
         {
           "verse_number": 3,
-          "text_arabic": "لَوْ كُنْتُ أَعْلَمُ أَنِّي مَا أُوَقِّرُهُ ** كَتَمْتُ سِرّاً بَدَا لِي مِنْهُ بِالْكَتَمِ",
+          "text_arabic": "لَوْ كُنْتُ أَعْلَمُ أَنِّي مَا أُوَقِّرُهُ\nكَتَمْتُ سِرّاً بَدَا لِي مِنْهُ بِالْكَتَمِ",
           "text_english": "Had I known that I would not respect him, I would have concealed the secret that appeared to me, with dye.",
           "text_urdu": "اگر مجھے معلوم ہوتا کہ میں اس کا وقار قائم نہیں رکھ سکوں گا، تو میں اس کے ظاہر ہونے والے راز کو خضاب لگا کر چھپا لیتا۔"
         }
@@ -63,19 +63,19 @@
       "verses": [
         {
           "verse_number": 1,
-          "text_arabic": "ظَلَمْتُ سُنَّةَ مَنْ أَحْيَا الظَّلَامَ إِلَى ** أَنِ اشْتَكَتْ قَدَمَاهُ الضُّرَّ مِنْ وَرَمِ",
+          "text_arabic": "ظَلَمْتُ سُنَّةَ مَنْ أَحْيَا الظَّلَامَ إِلَى\nأَنِ اشْتَكَتْ قَدَمَاهُ الضُّرَّ مِنْ وَرَمِ",
           "text_english": "I did injustice to the Sunnah of him who kept awake in the dark of night, until his feet complained of swelling from injury.",
           "text_urdu": "میں نے ان (حبیب ﷺ) کی سنت کی ناقدری کی جنہوں نے راتوں کی تاریکیوں میں اس قدر عبادت کی کہ ان کے مبارک قدموں میں ورم آگیا۔"
         },
         {
           "verse_number": 2,
-          "text_arabic": "وَشَدَّ مِنْ سَغَبٍ أَحْشَاءَهُ وَطَوَى ** تَحْتَ الْحِجَارَةِ كَشْحاً مُتْرَفَ الْأَدَمِ",
+          "text_arabic": "وَشَدَّ مِنْ سَغَبٍ أَحْشَاءَهُ وَطَوَى\nتَحْتَ الْحِجَارَةِ كَشْحاً مُتْرَفَ الْأَدَمِ",
           "text_english": "And he bound tight from hunger his stomach, and folded over stones a flank with skin so soft.",
           "text_urdu": "اور بھوک کی وجہ سے اپنے پیٹ کو مبارک کو مضبوط باندھا اور پتھروں کے نیچے اپنے نازک و ملائم پہلو کو لپیٹ لیا۔"
         },
         {
           "verse_number": 3,
-          "text_arabic": "وَرَاوَدَتْهُ الْجِبَالُ الشُّمُّ مِنْ ذَهَبٍ ** عَنْ نَفْسِهِ فَأَرَاهَا أَيَّمَا شَمَمِ",
+          "text_arabic": "وَرَاوَدَتْهُ الْجِبَالُ الشُّمُّ مِنْ ذَهَبٍ\nعَنْ نَفْسِهِ فَأَرَاهَا أَيَّمَا شَمَمِ",
           "text_english": "And high mountains of gold sought to tempt him from himself, but he showed them absolute loftiness.",
           "text_urdu": "اور سونے کے بلند و بالا پہاڑوں نے انہیں اپنی طرف مائل کرنا چاہا، تو آپ ﷺ نے انہیں اپنی شانِ استغنا دکھا دی۔"
         }
@@ -90,19 +90,19 @@
       "verses": [
         {
           "verse_number": 1,
-          "text_arabic": "أَبَانَ مَوْلِدُهُ عَنْ طِيبِ عُنْصُرِهِ ** يَا طِيبَ مُبْتَدَإٍ مِنْهُ وَمُخْتَتَمِ",
+          "text_arabic": "أَبَانَ مَوْلِدُهُ عَنْ طِيبِ عُنْصُرِهِ\nيَا طِيبَ مُبْتَدَإٍ مِنْهُ وَمُخْتَتَمِ",
           "text_english": "His birth made manifest his pure origin. How excellent is his beginning and how excellent his end!",
           "text_urdu": "آپ ﷺ کی ولادتِ پاک نے آپ کی پاکیزہ اصل کو ظاہر کر دیا۔ کیا ہی مبارک آپ کا آغاز ہے اور کیا ہی مبارک انجام!"
         },
         {
           "verse_number": 2,
-          "text_arabic": "يَوْمٌ تَفَرَّسَ فِيهِ الْفُرْسُ أَنَّهُمُ ** قَدْ أُنْذِرُوا بِحُلُولِ الْبُؤْسِ وَالنِّقَمِ",
+          "text_arabic": "يَوْمٌ تَفَرَّسَ فِيهِ الْفُرْسُ أَنَّهُمُ\nقَدْ أُنْذِرُوا بِحُلُولِ الْبُؤْسِ وَالنِّقَمِ",
           "text_english": "A day on which the Persians perceived that they were indeed warned of the onset of misery and vengeance.",
           "text_urdu": "وہ ایسا دن تھا جس میں اہل فارس (ایرانیوں) نے بھانپ لیا کہ انہیں ہلاکت اور عذاب کی آمد کی خبر دی جا چکی ہے۔"
         },
         {
           "verse_number": 3,
-          "text_arabic": "وَبَاتَ إِيوَانُ كِسْرَى وَهْوَ مُنْصَدِعٌ ** كَشَمْلِ أَصْحَابِ كِسْرَى غَيْرَ مُلْتَئِمِ",
+          "text_arabic": "وَبَاتَ إِيوَانُ كِسْرَى وَهْوَ مُنْصَدِعٌ\nكَشَمْلِ أَصْحَابِ كِسْرَى غَيْرَ مُلْتَئِمِ",
           "text_english": "And the palace of Kisra cracked all night, like the unity of Kisra's companions, never to be repaired.",
           "text_urdu": "اور کسریٰ کا محل اس طرح شگاف دار ہوگیا جیسے کسریٰ کے ساتھیوں کا شیرازہ منتشر ہوگیا ہو، جو کبھی نہ جڑ سکے۔"
         }
@@ -117,19 +117,19 @@
       "verses": [
         {
           "verse_number": 1,
-          "text_arabic": "جَاءَتْ لِدَعْوَتِهِ الْأَشْجَارُ سَاجِدَةً ** تَمْشِي إِلَيْهِ عَلَى سَاقٍ بِلَا قَدَمِ",
+          "text_arabic": "جَاءَتْ لِدَعْوَتِهِ الْأَشْجَارُ سَاجِدَةً\nتَمْشِي إِلَيْهِ عَلَى سَاقٍ بِلَا قَدَمِ",
           "text_english": "Trees came prostrating to his call, walking toward him on stems without feet.",
           "text_urdu": "آپ ﷺ کے بلانے پر درخت سجدہ کرتے ہوئے حاضر ہوئے، وہ تنوں کے بل چل رہے تھے بغیر پاؤں کے۔"
         },
         {
           "verse_number": 2,
-          "text_arabic": "كَأَنَّمَا كَتَبَتْ سَطْراً لِمَا كَتَبَتْ ** فُرُوعُهَا مِنْ بَدِيعِ الْخَطِّ فِي اللَّقَمِ",
+          "text_arabic": "كَأَنَّمَا كَتَبَتْ سَطْراً لِمَا كَتَبَتْ\nفُرُوعُهَا مِنْ بَدِيعِ الْخَطِّ فِي اللَّقَمِ",
           "text_english": "It was as though they were writing a line, when their branches wrote a beautiful script in the middle of the road.",
           "text_urdu": "گویا کہ انہوں نے سطریں لکھیں جب ان کی شاخوں نے راستے کے وسط میں خوبصورت خطاطی کی تحریر لکھی۔"
         },
         {
           "verse_number": 3,
-          "text_arabic": "مِثْلَ السَّحَابَةِ أَنَّى سَارَ سَائِرَةً ** تَقِيهِ حَرَّ وَطِيسٍ لِلْهَجِيرِ حَمِي",
+          "text_arabic": "مِثْلَ السَّحَابَةِ أَنَّى سَارَ سَائِرَةً\nتَقِيهِ حَرَّ وَطِيسٍ لِلْهَجِيرِ حَمِي",
           "text_english": "Like the cloud which moved wherever he moved, protecting him from the intense heat of the blazing midday sun.",
           "text_urdu": "اس بادل کی طرح جو آپ کے ساتھ چلتا تھا جہاں بھی آپ جاتے تھے، اور آپ کو چلچلاتی دھوپ کی گرمی سے بچاتا تھا۔"
         }
@@ -144,19 +144,19 @@
       "verses": [
         {
           "verse_number": 1,
-          "text_arabic": "دَعْنِي وَوَصْفِي آيَاتٍ لَهُ ظَهَرَتْ ** ظُهُورَ نَارِ الْقِرَى لَيْلاً عَلَى عَلَمِ",
+          "text_arabic": "دَعْنِي وَوَصْفِي آيَاتٍ لَهُ ظَهَرَتْ\nظُهُورَ نَارِ الْقِرَى لَيْلاً عَلَى عَلَمِ",
           "text_english": "Leave me to describe the verses of the Quran that appeared, like the guest-fire shining at night on top of a mountain.",
           "text_urdu": "مجھے ان معجزاتی آیات کی توصیف بیان کرنے دو جو ظاہر ہوئیں، جیسے رات کے وقت پہاڑ کی چوٹی پر مسافروں کی رہنمائی کی آگ چمکتی ہے۔"
         },
         {
           "verse_number": 2,
-          "text_arabic": "فَاللُّؤْلُؤُ يَزْدَادُ حُسْناً وَهْوَ مُنْتَظِمٌ ** وَلَيْسَ يَنْقُصُ قَدْراً غَيْرَ مُنْتَظِمِ",
+          "text_arabic": "فَاللُّؤْلُؤُ يَزْدَادُ حُسْناً وَهْوَ مُنْتَظِمٌ\nوَلَيْسَ يَنْقُصُ قَدْراً غَيْرَ مُنْتَظِمِ",
           "text_english": "For the pearl increases in beauty when strung in a necklace, and its value does not decrease when not strung.",
           "text_urdu": "موتی کی خوبصورتی اس وقت بڑھ جاتی ہے جب وہ لڑی میں پرویا ہو، اور اگر بکھرا بھی ہو تو اس کی قدر کم نہیں ہوتی۔"
         },
         {
           "verse_number": 3,
-          "text_arabic": "فَمَا تَطَاوُلُ آمَالِ الْمَدِيحِ إِلَى ** مَا فِيهِ مِنْ كَرَمِ الْأَخْلَاقِ وَالشِّيَمِ",
+          "text_arabic": "فَمَا تَطَاوُلُ آمَالِ الْمَدِيحِ إِلَى\nمَا فِيهِ مِنْ كَرَمِ الْأَخْلَاقِ وَالشِّيَمِ",
           "text_english": "So how can the highest hopes of praises aspire to match the noble character and virtues that reside in him?",
           "text_urdu": "پس مدح سرائی کی بلند ترین تمنائیں آپ ﷺ کے ان اخلاقِ کریمہ اور عادات کا مقابلہ کیسے کر سکتی ہیں؟"
         }
@@ -171,19 +171,19 @@
       "verses": [
         {
           "verse_number": 1,
-          "text_arabic": "يَا خَيْرَ مَنْ يَمَّمَ الْعَافُونَ سَاحَتَهُ ** سَعْياً وَفَوْقَ مُتُونِ الْأَيْنُقِ الرُّسُمِ",
+          "text_arabic": "يَا خَيْرَ مَنْ يَمَّمَ الْعَافُونَ سَاحَتَهُ\nسَعْياً وَفَوْقَ مُتُونِ الْأَيْنُقِ الرُّسُمِ",
           "text_english": "O best of those to whose courtyard seekers of favor run, on foot and on the backs of swift she-camels!",
           "text_urdu": "اے بہترین ہستی جن کے آستانے پر کرم کے طالب دوڑتے ہوئے آتے ہیں، پیدل بھی اور تیز رفتار اونٹنیوں کی پشت پر بھی!"
         },
         {
           "verse_number": 2,
-          "text_arabic": "وَمَنْ هُوَ الْآيَةُ الْكُبْرَى لِمُعْتَبِرٍ ** وَمَنْ هُوَ النِّعْمَةُ الْعُظْمَى لِمُغْتَنِمِ",
+          "text_arabic": "وَمَنْ هُوَ الْآيَةُ الْكُبْرَى لِمُعْتَبِرٍ\nوَمَنْ هُوَ النِّعْمَةُ الْعُظْمَى لِمُغْتَنِمِ",
           "text_english": "And O he who is the greatest sign for one who takes heed, and he who is the ultimate blessing for one who grasps it!",
           "text_urdu": "اور اے وہ ہستی جو عبرت حاصل کرنے والے کے لیے سب سے بڑی نشانی ہے اور غنیمت جاننے والے کے لیے سب سے بڑی نعمت ہے!"
         },
         {
           "verse_number": 3,
-          "text_arabic": "سَرَيْتَ مِنْ حَرَمٍ لَيْلاً إِلَى حَرَمٍ ** كَمَا سَرَى الْبَدْرُ فِي دَاجٍ مِنَ الظُّلَمِ",
+          "text_arabic": "سَرَيْتَ مِنْ حَرَمٍ لَيْلاً إِلَى حَرَمٍ\nكَمَا سَرَى الْبَدْرُ فِي دَاجٍ مِنَ الظُّلَمِ",
           "text_english": "You traveled by night from one Sanctuary to another Sanctuary, as the full moon travels in the dark of night.",
           "text_urdu": "آپ نے رات کے وقت ایک حرم سے دوسرے حرم تک سفر کیا، جیسے چودھویں کا چاند اندھیری رات کی تاریکیوں میں سفر کرتا ہے۔"
         }
@@ -198,19 +198,19 @@
       "verses": [
         {
           "verse_number": 1,
-          "text_arabic": "رَاعَتْ قُلُوبَ الْأَعْدَاءِ أَنْبَاءُ بِعْثَتِهِ ** كَنَبْأَةٍ أَجْفَلَتْ غُفْلاً مِنَ الْغَنَمِ",
+          "text_arabic": "رَاعَتْ قُلُوبَ الْأَعْدَاءِ أَنْبَاءُ بِعْثَتِهِ\nكَنَبْأَةٍ أَجْفَلَتْ غُفْلاً مِنَ الْغَنَمِ",
           "text_english": "The news of his commission struck terror into the hearts of the enemies, like a roar that startles a heedless flock of sheep.",
           "text_urdu": "آپ کی بعثت کی خبروں نے دشمنوں کے دلوں میں اسی طرح خوف پیدا کر دیا جیسے شیر کی دھاڑ غافل بھیڑوں کے ریوڑ کو بھگا دیتی ہے۔"
         },
         {
           "verse_number": 2,
-          "text_arabic": "مَا زَالَ يَلْقَاهُمُ فِي كُلِّ مُعْتَرَكٍ ** حَتَّى حَكَوْا بِالْقَنَا لَحْماً عَلَى وَضَمِ",
+          "text_arabic": "مَا زَالَ يَلْقَاهُمُ فِي كُلِّ مُعْتَرَكٍ\nحَتَّى حَكَوْا بِالْقَنَا لَحْماً عَلَى وَضَمِ",
           "text_english": "He continued to meet them in every battle, until they became like meat on a butcher's block under the impact of spears.",
           "text_urdu": "آپ ہر میدانِ جنگ میں ان کا مقابلہ کرتے رہے یہاں تک کہ نیزوں کی مار سے وہ قصائی کے تختے پر رکھے گوشت کی طرح بن گئے۔"
         },
         {
           "verse_number": 3,
-          "text_arabic": "وَدُّوا الْفِرَارَ فَكَادُوا يَغْبِطُونَ بِهِ ** أَشْلَاءَ تَشْهَدُ عِقْبَانٌ عَلَى رَخَمِ",
+          "text_arabic": "وَدُّوا الْفِرَارَ فَكَادُوا يَغْبِطُونَ بِهِ\nأَشْلَاءَ تَشْهَدُ عِقْبَانٌ عَلَى رَخَمِ",
           "text_english": "They wished to flee so much that they almost envied the corpses torn by eagles and vultures.",
           "text_urdu": "وہ بھاگنے کی اس قدر خواہش رکھتے تھے کہ وہ ان لاشوں پر رشک کرنے لگے جن پر چیل اور گدھ منڈلا رہے تھے۔"
         }
@@ -225,19 +225,19 @@
       "verses": [
         {
           "verse_number": 1,
-          "text_arabic": "خَدَمْتُهُ بِمَدِيحٍ أَسْتَقِيلُ بِهِ ** ذُنُوبَ عُمْرٍ مَضَى فِي الشِّعْرِ وَالْخِدَمِ",
+          "text_arabic": "خَدَمْتُهُ بِمَدِيحٍ أَسْتَقِيلُ بِهِ\nذُنُوبَ عُمْرٍ مَضَى فِي الشِّعْرِ وَالْخِدَمِ",
           "text_english": "I served him with praises, seeking thereby forgiveness for the sins of a lifetime spent in poetry and service of others.",
           "text_urdu": "میں نے ان (حبیب ﷺ) کی مدح سرائی کے ذریعے ایسی خدمت کی ہے جس سے میں اپنی اس زندگی کے گناہوں کی معافی کا طلبگار ہوں جو میں نے شعر و شاعری اور دوسروں کی ملازمت میں گزار دی۔"
         },
         {
           "verse_number": 2,
-          "text_arabic": "إِذْ قَلَّدَانِي مَا تُخْشَى عَوَاقِبُهُ ** كَأَنَّنِي بِهِمَا هَدْيٌ مِنَ النَّعَمِ",
+          "text_arabic": "إِذْ قَلَّدَانِي مَا تُخْشَى عَوَاقِبُهُ\nكَأَنَّنِي بِهِمَا هَدْيٌ مِنَ النَّعَمِ",
           "text_english": "Since these two bound me to what whose consequences are feared, as if I were because of them a sacrificial animal.",
           "text_urdu": "جبکہ ان دونوں کاموں نے میرے گلے میں ایسے طوق ڈال دیے ہیں جن کے انجام کا خوف ہے، گویا میں قربانی کا جانور بن گیا ہوں۔"
         },
         {
           "verse_number": 3,
-          "text_arabic": "أَطَعْتُ غَيَّ الصِّبَا فِي الْحَالَتَيْنِ وَمَا ** حَصَلْتُ إِلَّا عَلَى الْآثَامِ وَالنَّدَمِ",
+          "text_arabic": "أَطَعْتُ غَيَّ الصِّبَا فِي الْحَالَتَيْنِ وَمَا\nحَصَلْتُ إِلَّا عَلَى الْآثَامِ وَالنَّدَمِ",
           "text_english": "I obeyed the misguidance of youth in both states, and I gained nothing but sins and remorse.",
           "text_urdu": "میں نے دونوں حالتوں میں جوانی کی گمراہی کی پیروی کی، اور مجھے گناہوں اور شرمندگی کے سوا کچھ حاصل نہ ہوا۔"
         }
@@ -252,19 +252,19 @@
       "verses": [
         {
           "verse_number": 1,
-          "text_arabic": "يَا أَكْرَمَ الْخَلْقِ مَا لِي مَنْ أَلُوذُ بِهِ ** سِوَاكَ عِنْدَ حُلُولِ الْحَادِثِ الْعَمِمِ",
+          "text_arabic": "يَا أَكْرَمَ الْخَلْقِ مَا لِي مَنْ أَلُوذُ بِهِ\nسِوَاكَ عِنْدَ حُلُولِ الْحَادِثِ الْعَمِمِ",
           "text_english": "O most noble of creation! I have none to seek refuge in except you, when the universal calamity befalls.",
           "text_urdu": "اے مخلوقات میں سب سے زیادہ معزز! جب عام مصیبت (قیامت) نازل ہوگی تو آپ کے سوا میری پناہ لینے کی کوئی جگہ نہ ہوگی۔"
         },
         {
           "verse_number": 2,
-          "text_arabic": "وَلَنْ يَضِيقَ رَسُولَ اللهِ جَاهُكَ بِي ** إِذَا الْكَرِيمُ تَجَلَّى بِاسْمِ مُنْتَقِمِ",
+          "text_arabic": "وَلَنْ يَضِيقَ رَسُولَ اللهِ جَاهُكَ بِي\nإِذَا الْكَرِيمُ تَجَلَّى بِاسْمِ مُنْتَقِمِ",
           "text_english": "And O Messenger of Allah! Your high rank will not be too narrow for me, when the Generous (Allah) manifests Himself by His name of Avenger.",
           "text_urdu": "اور اے اللہ کے رسول! آپ کا مرتبہ میرے لیے تنگ نہ ہوگا جب کریم (اللہ تعالیٰ) اپنے صفتِ قہار کے ساتھ تجلی فرمائے گا۔"
         },
         {
           "verse_number": 3,
-          "text_arabic": "فَانَّ مِنْ جُودِكَ الدُّنْيَا وَضَرَّتَهَا ** وَمِنْ عُلُومِكَ عِلْمَ اللَّوْحِ وَالْقَلَمِ",
+          "text_arabic": "فَانَّ مِنْ جُودِكَ الدُّنْيَا وَضَرَّتَهَا\nوَمِنْ عُلُومِكَ عِلْمَ اللَّوْحِ وَالْقَلَمِ",
           "text_english": "For indeed, of your generosity is this world and its afterlife, and of your knowledge is the knowledge of the Tablet and the Pen.",
           "text_urdu": "بے شک دنیا اور اس کی آخرت آپ کی سخاوت کا ایک حصہ ہیں، اور لوح و قلم کا علم آپ کے علوم کا ایک حصہ ہے۔"
         }
